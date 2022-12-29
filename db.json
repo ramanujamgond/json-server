@@ -32,5 +32,39 @@
             "username": "username3",
             "email": "user3@example.com"
         }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "name": "Banani"
+        },
+        {
+            "id": 2,
+            "name": "Gulshan 2"
+        },
+        {
+            "id": 3,
+            "name": "Baridhara"
+        },
+        {
+            "id": 4,
+            "name": "Mohakhali DOHS"
+        },
+        {
+            "id": 5,
+            "name": "Mirpur DOHS"
+        },
+        {
+            "id": 6,
+            "name": "3 Chicken Wings"
+        },
+        {
+            "id": 7,
+            "name": "PERi-PERi Wedges"
+        },
+        {
+            "id": 8,
+            "name": "Corn-On-The-Cob"
+        }
     ]
 }
